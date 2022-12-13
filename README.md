@@ -11,9 +11,9 @@
 
 <p align="left"> <a href="https://twitter.com/andip_stha" target="blank"><img src="https://img.shields.io/twitter/follow/andip_stha?logo=twitter&style=for-the-badge" alt="andip_stha" /></a> </p>
 
-- 🔭 I’m currently working on [C++ miniProject](https://github.com/Andipstha/theFusion-Project-II)
+- 🔭 I’m currently working on [**c#** miniProject](https://github.com/Anishmaharjan09/csharp)
 
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning **Adobe illustator**
 
 - 👨‍💻 All of my projects are available at 
 
